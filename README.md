@@ -1,4 +1,4 @@
-# react.dev Mei-Reactの公式ドキュメントサイトのGit
+# react.dev Reactの公式ドキュメントサイトのGitソースのやつ
 
 This repo contains the source code and documentation powering [react.dev](https://react.dev/).
 
